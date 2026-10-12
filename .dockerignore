@@ -1,0 +1,16 @@
+# Modified for DeskPilot AI: exclude credentials and runtime state.
+.env
+.env.*
+!.env.example
+.git
+.vscode
+.venv
+venv
+__pycache__
+*.py[cod]
+.pytest_cache
+.ruff_cache
+*.log
+data/*.db*
+uploads/
+tests/

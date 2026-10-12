@@ -1,0 +1,9 @@
+DeskPilot AI
+Apache License, Version 2.0; see LICENSE.
+
+Includes code adapted from Enterprise-IT-Support-Agentic-RAG-Copilot by entbappy:
+https://github.com/entbappy/Enterprise-IT-Support-Agentic-RAG-Copilot
+Source revision: 13c28dd
+
+Modifications for DeskPilot AI include workflow controls, index safety, ingestion,
+audit privacy, API contracts, interface updates, tests, and container packaging.
